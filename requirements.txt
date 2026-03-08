@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+mediapipe
+plotly
+trimesh
+ipywidgets
+notebook
+jupyter
