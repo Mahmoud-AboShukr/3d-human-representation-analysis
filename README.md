@@ -90,14 +90,6 @@ For the mesh-analysis section:
 - A human image for 2D/3D pose estimation
 - A `.obj` mesh file for 3D geometry inspection
 
-## Key Learning Outcomes
-
-This project demonstrates:
-- The difference between **skeleton-based** and **mesh-based** human representations
-- How 2D observations can be transformed into structured pose landmarks
-- How to visualize motion and body structure in 3D
-- How to inspect and analyze mesh geometry programmatically
-
 ## Notes
 
 - Some cells were originally written with notebook/Colab-style installation commands.
@@ -116,7 +108,3 @@ Future extensions could include:
 ## Author
 
 Mahmoud Abo Shukr
-
-## License
-
-This repository is shared as a personal academic project and portfolio item. Add a license file if you want to define reuse permissions explicitly.
